@@ -1,2 +1,14 @@
-# shadow-fox-internship
-As an intern at ShadowFox, I had the opportunity to work on a range of hands-on programming and development challenges that enhanced my skills in problem-solving, coding logic, and real-world software practices. This repository contains all the task solutions I completed during the internship, organized clearly by task number or topic.
+# 🌟 ShadowFox Internship Tasks 💼
+
+👋 Hello! I'm currently working as an **Intern at ShadowFox** 🚀.  
+This repository is dedicated to all the tasks I complete during my internship period.
+
+## 📂 About This Repo
+
+📌 Each file in this repository represents a specific task assigned to me.  
+📝 **The filename heading clearly indicates the main topic** or problem focus — making it easier to navigate and understand.
+
+## 🎯 Goal
+
+This repo serves as a portfolio of my learning and contributions during the internship.  
+I'll be regularly updating it with new task files as I complete them. Stay tuned!
